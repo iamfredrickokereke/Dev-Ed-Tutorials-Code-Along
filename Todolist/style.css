@@ -4,3 +4,13 @@
     box-sizing: border-box;
 }
 
+body {
+    background: linear-gradient(120deg, #f6d315, #d88117);
+    color: white;
+    font-family: Poppins, sans-serif;
+    min-height: 100vh;
+}
+
+header {
+    font-size: 2rem;
+}
