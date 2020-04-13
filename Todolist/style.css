@@ -14,3 +14,17 @@ body {
 header {
     font-size: 2rem;
 }
+
+
+header, form, footer { 
+    min-height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form input, form button {
+    padding: 0.5rem;
+    font-size: 2rem;
+    border: tomato;
+}
