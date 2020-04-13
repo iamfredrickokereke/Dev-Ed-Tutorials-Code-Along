@@ -28,4 +28,18 @@ form input, form button {
     font-size: 2rem;
     border: none;
     outline: none;
+    /* background: white; */
+}
+
+form button {
+    color: white;
+    background-color: #d88117;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+form button:hover {
+    color:#d88117;
+    background-color: white;
+
 }
