@@ -32,12 +32,15 @@ function addTodo(event) {
      newTodo.classList.add('todo-item');
 
 
-     
+
     console.log("Hello bro!");
     
 }
-<div class="todo">
+
+
+
+{/* <div class="todo">
 <li></li>
 <button>Delete</button>
 <button>Checked</button>
-</div>
+</div> */}
