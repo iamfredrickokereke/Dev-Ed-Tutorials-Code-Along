@@ -13,3 +13,8 @@ todoButton.addEventListener('click', addTodo)
 
 
 //Functions
+
+function addTodo(event) {
+    console.log("Hello bro!");
+    
+}
