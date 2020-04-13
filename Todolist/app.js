@@ -32,6 +32,11 @@ function addTodo(event) {
      newTodo.classList.add('todo-item');
 
 
+     // append to div
+
+     todoDiv.appendChild(newTodo)
+
+
 
     console.log("Hello bro!");
     
