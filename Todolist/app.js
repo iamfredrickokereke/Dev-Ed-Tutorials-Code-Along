@@ -15,6 +15,9 @@ todoButton.addEventListener('click', addTodo)
 //Functions
 
 function addTodo(event) {
+    //PREVENT FORM FROM SUBMITTING BY DEFAULT
+
+    event.preventDefault();
     console.log("Hello bro!");
     
 }
