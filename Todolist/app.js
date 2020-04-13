@@ -8,6 +8,7 @@ const todoList = document.querySelector('.todo-input')
 
 // Event Listeners
 
+todoButton.addEventListener('click', addTodo)
 
 
 
