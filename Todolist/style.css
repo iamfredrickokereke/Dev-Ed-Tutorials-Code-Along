@@ -55,7 +55,14 @@ form button:hover {
     list-style: none;
 }
 
-
+.todo{
+    margin: 0.5rem;
+    background: white;
+    color: black;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+}
 
 .todo li{
     flex: 1;
